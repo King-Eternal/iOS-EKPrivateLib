@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "EKPrivateLib"
   s.version      = "0.0.1"
-  s.summary      = "海航集团天海投资Hicloud金融云事业部iOS开发组私有工具库"
+  s.summary      = "海航集团天海投资HiCloud金融云事业部iOS开发组私有工具库"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
