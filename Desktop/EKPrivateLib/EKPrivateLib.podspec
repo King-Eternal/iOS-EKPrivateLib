@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
                     详细描述：海航集团天海投资HiCloud金融云事业部iOS开发组私有工具库 
                    DESC
 
-  s.homepage     = "http://gitbj.haihangyun.com/HiCloud-Mobile/EKPrivateLib.git"
+  s.homepage     = "http://gitbj.haihangyun.com/HiCloud-Mobile/iOS-EKPrivateLib.git"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "http://gitbj.haihangyun.com/HiCloud-Mobile/EKPrivateLib.git", :tag => "#{s.version}" }
+  s.source       = { :git => "http://gitbj.haihangyun.com/HiCloud-Mobile/iOS-EKPrivateLib.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -91,7 +91,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = 'EKPrivateLib/**/*'
+  s.source_files  = 'EKPrivateLib/**/*.{h,m}'
   # s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
