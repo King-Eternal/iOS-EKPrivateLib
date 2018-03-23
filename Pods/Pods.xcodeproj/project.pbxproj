@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 48;
+	objectVersion = 46;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -17,10 +17,10 @@
 		4B6963102E5DECC064E3A7D4C8EA4B93 /* Pods-EKPrivateLibDemo-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-EKPrivateLibDemo-resources.sh"; sourceTree = "<group>"; };
 		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		8119329AF4D7724F29B2C6E39387A23F /* Pods-EKPrivateLibDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-EKPrivateLibDemo.release.xcconfig"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		B33E00BAD5F195F4E2799FC12AF8A757 /* Pods-EKPrivateLibDemo-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-EKPrivateLibDemo-dummy.m"; sourceTree = "<group>"; };
 		DFD677FE139174BF222D301115A62F70 /* Pods-EKPrivateLibDemo-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-EKPrivateLibDemo-acknowledgements.markdown"; sourceTree = "<group>"; };
-		EE2A01A79A80ABCBDF68D4FCF582D8CA /* libPods-EKPrivateLibDemo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-EKPrivateLibDemo.a"; path = "libPods-EKPrivateLibDemo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EE2A01A79A80ABCBDF68D4FCF582D8CA /* libPods-EKPrivateLibDemo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-EKPrivateLibDemo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F28A7046956E21E741367E9E7914BCAB /* Pods-EKPrivateLibDemo-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-EKPrivateLibDemo-frameworks.sh"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 

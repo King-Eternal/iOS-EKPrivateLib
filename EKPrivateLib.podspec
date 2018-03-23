@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "EKPrivateLib"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "海航集团天海投资HiCloud金融云事业部iOS开发组私有工具库"
 
   # This description is used to generate tags and improve search results.
@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
                     详细描述：海航集团天海投资HiCloud金融云事业部iOS开发组私有工具库 
                    DESC
 
-  s.homepage     = "http://gitbj.haihangyun.com/HiCloud-Mobile/iOS-EKPrivateLib.git"
+  s.homepage     = "https://github.com/King-Eternal/iOS-EKPrivateLib.git"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "http://gitbj.haihangyun.com/HiCloud-Mobile/iOS-EKPrivateLib.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/King-Eternal/iOS-EKPrivateLib.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
